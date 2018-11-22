@@ -1,0 +1,8 @@
+# Visual Studio Project Files
+/.vs/*
+
+# Binaries
+/bin/*
+
+# Build
+/build/*
